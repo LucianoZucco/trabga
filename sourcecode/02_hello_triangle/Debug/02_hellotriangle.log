@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\felipe\downloads\ga_pg\sourcecode\02_hello_triangle\main.cpp(63): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+c:\users\felipe\downloads\ga_pg\sourcecode\02_hello_triangle\main.cpp(63): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  02_hellotriangle.vcxproj -> C:\Users\felipe\Downloads\GA_PG\sourcecode\Debug\02_hellotriangle.exe
+  02_hellotriangle.vcxproj -> C:\Users\felipe\Downloads\GA_PG\sourcecode\Debug\02_hellotriangle.pdb (Partial PDB)
